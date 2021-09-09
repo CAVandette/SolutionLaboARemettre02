@@ -19,7 +19,7 @@ void main()
    float sousTotalConsommation;
    float total;
 
-   // Initialisation des variables
+   // Déclaration et intialisation des variables (éventuellement des constantes)
    int coutParJour = 45;
    int kmGratuitParJour = 250;
    float consommationVehicule = 7.6;
